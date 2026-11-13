@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 22339b9f97f9d0f4399cdb991017125e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1023742152865251023
+    second: urban_0
+  - first:
+      213: -3695128010878480736
+    second: urban_1
+  - first:
+      213: 1750481601033713728
+    second: urban_2
+  - first:
+      213: -2730497246165595121
+    second: urban_3
+  - first:
+      213: 3933813542539166177
+    second: urban_4
+  - first:
+      213: 1934490052813507355
+    second: urban_5
+  - first:
+      213: 1876989502399123206
+    second: urban_6
+  - first:
+      213: -3644169631574615101
+    second: urban_7
+  - first:
+      213: -5593594671048163291
+    second: urban_8
+  - first:
+      213: 8837616832090963551
+    second: urban_9
+  - first:
+      213: -6599020412514221575
+    second: urban_10
+  - first:
+      213: 613260761937369562
+    second: urban_11
+  - first:
+      213: 876290246384996197
+    second: urban_12
+  - first:
+      213: -4570741430219168889
+    second: urban_13
+  - first:
+      213: 3365450300382042541
+    second: urban_14
+  - first:
+      213: -5430257429163005998
+    second: urban_15
+  - first:
+      213: 6511317499876539136
+    second: urban_16
+  - first:
+      213: 9209898418339811544
+    second: urban_17
+  - first:
+      213: -6287869611659144239
+    second: urban_18
+  - first:
+      213: -692524050283629146
+    second: urban_19
+  - first:
+      213: -1099603243057425233
+    second: urban_20
+  - first:
+      213: -1517951488840361785
+    second: urban_21
+  - first:
+      213: 1758911048638113653
+    second: urban_22
+  - first:
+      213: -5880716413480960280
+    second: urban_23
+  - first:
+      213: -3676386854273582806
+    second: urban_24
+  - first:
+      213: 2843151622797188703
+    second: urban_25
+  - first:
+      213: -781850156965898269
+    second: urban_26
+  - first:
+      213: -2685488888882136000
+    second: urban_27
+  - first:
+      213: -3027938125965251335
+    second: urban_28
+  - first:
+      213: 5030706065844114730
+    second: urban_29
+  - first:
+      213: -4691251423389570021
+    second: urban_30
+  - first:
+      213: -900640148399914515
+    second: urban_31
+  - first:
+      213: -8782576636224265320
+    second: urban_32
+  - first:
+      213: 6289409185582164786
+    second: urban_33
+  - first:
+      213: 8168738725154039305
+    second: urban_34
+  - first:
+      213: 8187383297308420778
+    second: urban_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: urban_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 443
+        width: 315
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce70236010153e00800000000000000
+      internalID: 1023742152865251023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_1
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 956
+        width: 255
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae0ef7d6a448bcc0800000000000000
+      internalID: -3695128010878480736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_2
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 956
+        width: 104
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048b87fddb5fa4810800000000000000
+      internalID: 1750481601033713728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_3
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 954
+        width: 226
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c0e1ea8335b1ad0800000000000000
+      internalID: -2730497246165595121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_4
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 899
+        width: 131
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e10baf1396b79630800000000000000
+      internalID: 3933813542539166177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_5
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 899
+        width: 283
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bc9732470b8da10800000000000000
+      internalID: 1934490052813507355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_6
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 902
+        width: 149
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f03a9f1086c0a10800000000000000
+      internalID: 1876989502399123206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_7
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 821
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb9ab8170f4d6dc0800000000000000
+      internalID: -3644169631574615101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 823
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52008a6684f8f52b0800000000000000
+      internalID: -5593594671048163291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_9
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 733
+        width: 35
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e7bc16fa585aa70800000000000000
+      internalID: 8837616832090963551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_10
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 817
+        width: 248
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1c98ed5e19b64a0800000000000000
+      internalID: -6599020412514221575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 718
+        width: 232
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad956fde96db28800800000000000000
+      internalID: 613260761937369562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 726
+        width: 168
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fcae71655392c00800000000000000
+      internalID: 876290246384996197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_13
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 441
+        width: 357
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78320a3d2e67190c0800000000000000
+      internalID: -4570741430219168889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 479
+        width: 31
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9d08f973b74be20800000000000000
+      internalID: 3365450300382042541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 346
+        width: 902
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d720df83a9d3a4b0800000000000000
+      internalID: -5430257429163005998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_16
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 346
+        width: 329
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bfce784c8dc5a50800000000000000
+      internalID: 6511317499876539136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_17
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 346
+        width: 223
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0939ab0d120df70800000000000000
+      internalID: 9209898418339811544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 153
+        width: 36
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3551b17effcb8a0800000000000000
+      internalID: -6287869611659144239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 260
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5fd60ab09a366f0800000000000000
+      internalID: -692524050283629146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 256
+        width: 105
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4d1b72dac6db0f0800000000000000
+      internalID: -1099603243057425233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 256
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c81561d9272feae0800000000000000
+      internalID: -1517951488840361785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_22
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 259
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a5959748e86810800000000000000
+      internalID: 1758911048638113653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_23
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 254
+        width: 165
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee78ad449f736ea0800000000000000
+      internalID: -5880716413480960280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_24
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 256
+        width: 139
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a297b1662a9dafcc0800000000000000
+      internalID: -3676386854273582806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 250
+        width: 130
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ed6675657e47720800000000000000
+      internalID: 2843151622797188703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_26
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 164
+        width: 356
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7d676bc6f4625f0800000000000000
+      internalID: -781850156965898269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_27
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 160
+        width: 85
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cfbe9751a3bbad0800000000000000
+      internalID: -2685488888882136000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 149
+        width: 234
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcaaff215a9af5d0800000000000000
+      internalID: -3027938125965251335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_29
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 148
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a259a085388a0d540800000000000000
+      internalID: 5030706065844114730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_30
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 148
+        width: 140
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca1dc8fa355eeb0800000000000000
+      internalID: -4691251423389570021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_31
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 148
+        width: 127
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de10b2c8e884083f0800000000000000
+      internalID: -900640148399914515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 148
+        width: 135
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8932539d4150e1680800000000000000
+      internalID: -8782576636224265320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_33
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 165
+        width: 103
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b24b1e458784750800000000000000
+      internalID: 6289409185582164786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_34
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 163
+        width: 249
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906a8c737903d5170800000000000000
+      internalID: 8168738725154039305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 23
+        width: 1491
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaae804fabd6f9170800000000000000
+      internalID: 8187383297308420778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_36
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 918
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beee9bb280dbe64884533c4707ec323
+      internalID: -277381283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_37
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 918
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739a5a54e66c72419cbda22bdb2dd51
+      internalID: 890197692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_38
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 918
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6694f83e23edd2d44b1f2694b307164c
+      internalID: -1704894525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_39
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 917
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc245d51a94aba0429cc2a8b2a3b6166
+      internalID: -335566523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 916
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c4ed3d45566164aab8b0e21a252114
+      internalID: -796553088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_41
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 924
+        width: 91
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa226aa2e9978414a8a1575b7a69a604
+      internalID: 1834984553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_42
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 967
+        width: 123
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1391c3e647044043a795a193b0c6e56
+      internalID: -1398341048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_43
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 847
+        width: 168
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7b0cb1e64002e469f9f2cb9782015d
+      internalID: 1828878707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_44
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 480
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79dbc3c66232bd4a876b855e13c4c94
+      internalID: -373763224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_45
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 445
+        width: 330
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4398edb39538c1c4e8625007ca6ae3e8
+      internalID: -166847545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_46
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 479
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1ed5e043c9426448de99b6b445990d
+      internalID: 1978245908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_47
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 478
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab2689ef956df40adbde183f2df599
+      internalID: 1299784630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb883fcff5899e4d8a0d3f455091c1d
+      internalID: 666416402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 472
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bada8a8723748f440bf0e1d67de9d167
+      internalID: -884808222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dfc6abef86b7f3447a4c77bbdc916a2c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      urban_0: 1023742152865251023
+      urban_1: -3695128010878480736
+      urban_10: -6599020412514221575
+      urban_11: 613260761937369562
+      urban_12: 876290246384996197
+      urban_13: -4570741430219168889
+      urban_14: 3365450300382042541
+      urban_15: -5430257429163005998
+      urban_16: 6511317499876539136
+      urban_17: 9209898418339811544
+      urban_18: -6287869611659144239
+      urban_19: -692524050283629146
+      urban_2: 1750481601033713728
+      urban_20: -1099603243057425233
+      urban_21: -1517951488840361785
+      urban_22: 1758911048638113653
+      urban_23: -5880716413480960280
+      urban_24: -3676386854273582806
+      urban_25: 2843151622797188703
+      urban_26: -781850156965898269
+      urban_27: -2685488888882136000
+      urban_28: -3027938125965251335
+      urban_29: 5030706065844114730
+      urban_3: -2730497246165595121
+      urban_30: -4691251423389570021
+      urban_31: -900640148399914515
+      urban_32: -8782576636224265320
+      urban_33: 6289409185582164786
+      urban_34: 8168738725154039305
+      urban_35: 8187383297308420778
+      urban_36: -277381283
+      urban_37: 890197692
+      urban_38: -1704894525
+      urban_39: -335566523
+      urban_4: 3933813542539166177
+      urban_40: -796553088
+      urban_41: 1834984553
+      urban_42: -1398341048
+      urban_43: 1828878707
+      urban_44: -373763224
+      urban_45: -166847545
+      urban_46: 1978245908
+      urban_47: 1299784630
+      urban_48: 666416402
+      urban_49: -884808222
+      urban_5: 1934490052813507355
+      urban_6: 1876989502399123206
+      urban_7: -3644169631574615101
+      urban_8: -5593594671048163291
+      urban_9: 8837616832090963551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
